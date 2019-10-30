@@ -1,1 +1,1 @@
-# SortedList-Data-Structure
+# SortedList-DataStructure
